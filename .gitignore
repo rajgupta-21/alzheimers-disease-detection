@@ -1,0 +1,24 @@
+# Frontend
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+
+# Backend
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env/
+.venv/
+models/
+*.pkl
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea
